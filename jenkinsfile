@@ -9,7 +9,7 @@ tools{
 	
 	stage("checkout"){
 	steps{
-	git 'https://github.com/nibedita/gitrealtime.git'
+	https://github.com/NibeditaBishoyi/nibedita.git
 	     }
 	                  }
 				
